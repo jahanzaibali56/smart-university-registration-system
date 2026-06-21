@@ -295,4 +295,10 @@ This project demonstrates:
 Bachelor of Computer Engineering
 COMSATS University Islamabad, Lahore Campus
 
+GitHub:
+https://github.com/jahanzaibali56
+
+LinkedIn:
+https://www.linkedin.com/in/jahanzaibali-eng
+
 ---
