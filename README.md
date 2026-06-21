@@ -292,7 +292,7 @@ This project demonstrates:
 
 **Jahanzaib Ali**
 
-Bachelor of Computer Engineering
+Computer Engineering Student 
 COMSATS University Islamabad, Lahore Campus
 
 GitHub:
