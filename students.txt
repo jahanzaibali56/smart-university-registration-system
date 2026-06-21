@@ -1,0 +1,5 @@
+10|Ayan Akram|CE|4|3.4|52
+26|Jahanzaib Ali|CE|4|2.98|56
+64|Sudais Junaid Raza|CE|4|3.1|52
+104|Zubair|CE|4|3.2|52
+106|Hassan Nauman|CE|4|2.8|52

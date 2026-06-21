@@ -1,0 +1,2 @@
+10|Modassir Ishfaq|CE|Algorithm Design and Data Structures
+12|Dr. Arsla Khan|CE|Computer Programming and Problem Solving
